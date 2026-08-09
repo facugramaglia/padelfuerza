@@ -1,0 +1,16 @@
+{
+  "name": "PádelFuerza",
+  "short_name": "PádelFuerza",
+  "description": "Programa de fuerza de 26 semanas para jugadores de pádel",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08090c",
+  "theme_color": "#08090c",
+  "lang": "es-AR",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
